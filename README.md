@@ -1,1 +1,1 @@
-# maze-solver
+This program uses BFS or DFS as per the users choice and solves the maze.
